@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "web.u0546073"
+        id          = "http://192.168.4.37/web/"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
     <name>ТЕСТ. Web-server</name>
 
